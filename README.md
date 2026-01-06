@@ -1,2 +1,3 @@
 # Self-Introduction
-self introduction
+Name: Tingyi Wang
+Email: wangting23@mails.tsinghua.edu.cn
